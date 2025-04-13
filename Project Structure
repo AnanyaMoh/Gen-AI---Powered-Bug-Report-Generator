@@ -1,0 +1,13 @@
+bug-report-generator/
+├── backend/
+│   ├── app.py
+│   ├── generator/
+│   │   ├── ai_engine.py
+│   │   └── markdown_formatter.py
+│   ├── github_integration/
+│   │   └── github_api.py
+│   ├── requirements.txt
+│   └── .env.example
+├── README.md
+├── LICENSE
+.gitignore
